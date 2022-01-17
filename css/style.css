@@ -2,7 +2,7 @@
 
 body {
   /* make all text courier, set margin and padding to 10px */
-  font-family: Courier;
+  font-family: serif;
   margin: 10px;
   padding: 10px;
 }
@@ -10,7 +10,7 @@ body {
 h1 {
   /* make your headers 32px, #128ded color and bold */
   font-size: 32px;
-  color: yellow;
+  color: #128ded;
   font-weight: bold;
 }
 
