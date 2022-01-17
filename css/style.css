@@ -1,13 +1,13 @@
 /* PART 1: Write these rules on your own. */
 
-body{
+body {
   /* make all text courier, set margin and padding to 10px */
-  font-family: 'Lucida Handwriting';
+  font-family: 'courier';
   margin: 10px;
   padding: 10px;
 }
 
-h1{
+h1 {
   /* make your headers 32px, #128ded color and bold */
   font-size: 32px;
   color: #128ded;
@@ -50,7 +50,7 @@ img{
 ul{
   /* make bullet points red squares */
   list-style-type: square;
-  color: red;
+  color: blue;
 }
 
 .footer{
