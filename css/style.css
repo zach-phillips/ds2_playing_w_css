@@ -2,7 +2,7 @@
 
 body {
   /* make all text courier, set margin and padding to 10px */
-  font-family: serif;
+  font-family: sans-serif;
   margin: 10px;
   padding: 10px;
 }
