@@ -1,13 +1,13 @@
 /* PART 1: Write these rules on your own. */
 
-body {
+body{
   /* make all text courier, set margin and padding to 10px */
-  font-family: sans-serif;
+  font-family: Courier;
   margin: 10px;
   padding: 10px;
 }
 
-h1 {
+h1{
   /* make your headers 32px, #128ded color and bold */
   font-size: 32px;
   color: #128ded;
@@ -27,7 +27,7 @@ p{
 a{
   /* make your links red, use italics, and be underlined */
   color: #D10000;
-  font-style: italics;
+  font-style: italic;
   text-decoration: underline;
 }
 
@@ -43,14 +43,16 @@ img{
   width: 300px;
   height: 220px;
   padding: 10px;
-  border: 10px #1ba550;
+  border-style: dashed;
+  border-width: 10px;
+  border-color: green;
 }
 
 
 ul{
   /* make bullet points red squares */
   list-style-type: square;
-  color: blue;
+  color: red;
 }
 
 .footer{
